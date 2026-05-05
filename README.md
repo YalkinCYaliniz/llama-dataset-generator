@@ -58,12 +58,6 @@ Domain → özellik string listesi. Kendi ürün alanınıza göre düzenleyebil
 
 Script kabaca örnek başına maliyet tahmini gösterir; gerçek ücret kullanım ve güncel OpenAI fiyatlarına bağlıdır. Üretim öncesi `--count` ile küçük deneme yapmanız önerilir.
 
-## Önerilen GitHub ayarları
-
-- **Repository name:** `llama-fine-tuning-dataset-generator` (veya tercih ettiğiniz kısa isim)
-- **Description:** `Generate instruction-tuning JSONL: user stories → QA test cases via OpenAI`
-- **Topics (etiketler):** `llama`, `fine-tuning`, `dataset`, `openai`, `jsonl`, `instruction-tuning`, `qa`, `test-cases`, `python`
-
 ## Lisans
 
 Bu proje [MIT Lisansı](LICENSE) altında yayınlanır. Özetle: ticari veya kişisel kullanımda yazılımı özgürce kullanabilir, değiştirebilir ve dağıtabilirsiniz; tek koşul, telif ve izin metninin kopyalarını korumaktır. Garanti verilmez.
